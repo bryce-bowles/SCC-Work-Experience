@@ -10,6 +10,11 @@ Serve as a Data and Systems Analyst Liaison between the Bureau of Insurance (BOI
 * Annual Company Licensing Renewal
 * Working Group Meetings
 
+Description: Responsible for automation and information systems work for the Bureau of Insurance (BOI) in support of insurance regulation.
+
+Work involves using a variety of data analysis and organizational tools, supporting several complex automated systems, and providing advanced technical assistance.  Work is performed with latitude for the exercise of independent judgment and decision making. Work is reviewed through conferences and evaluation of results.
+
+
 ---
 
 ## Agent Licensing Legislation
