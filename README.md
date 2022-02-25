@@ -1,8 +1,6 @@
 # SCC-Work-Experience
 Serve as a Data and Systems Analyst Liaison between the Bureau of Insurance (BOI) and Information Technology Division (ITD), assisting Automated Systems’ Manager and Chief.
 
-*Italicized font are comments from Manager*
-
 Including, but not limited to:
 * Agent Licensing Legislation
 * Advanced Report and Data Extraction 
@@ -17,6 +15,8 @@ Work involves using a variety of data analysis and organizational tools, support
 
 
 ---
+
+*Italicized font are comments from Manager*
 
 ## Agent Licensing Legislation
 
