@@ -3,6 +3,13 @@ Serve as a Data and Systems Analyst Liaison between the Bureau of Insurance (BOI
 
 *Italicized font are comments from Manager*
 
+* Agent Licensing Legislation
+* Advanced Report and Data Extraction 
+* SendGrid System Implementation
+* Balance Billing Arbitration
+* Annual Company Licensing Renewal
+* Working Group Meetings
+
 ---
 
 ## Agent Licensing Legislation
