@@ -17,6 +17,7 @@ Support all computer-based systems and system related projects / processes utili
 * Administer, troubleshoot and improve numerous annual & quarterly system related projects and processes with BOI Staff. Create and implement timelines, train employees, streamline workflows, policies, and procedures. 
 * Provide helpdesk support for BOI Staff (200+ employees): Maintain expert knowledge of all computer applications / equipment, security access, SharePoint updates, website changes, etc. 
 
+---
 
 Recent projects and Commission involvement include but are not limited to:
 * Agent Licensing Legislation
