@@ -21,7 +21,7 @@ Support all computer-based systems and system related projects / processes utili
 
 Recent projects and Commission involvement include but are not limited to:
 * [Agent Licensing Legislation](https://github.com/bryce-bowles/SCC-Work-Experience#agent-licensing-legislation)
-* Advanced Report and Data Extraction 
+* [Advanced Report and Data Extraction](https://github.com/bryce-bowles/SCC-Work-Experience#advanced-report-and-data-extraction)
 * SendGrid System Implementation
 * Balance Billing Arbitration
 * Annual Company Licensing Renewal
