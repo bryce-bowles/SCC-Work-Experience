@@ -24,7 +24,7 @@ Recent projects and Commission involvement include but are not limited to:
 * [Advanced Report and Data Extraction](https://github.com/bryce-bowles/SCC-Work-Experience#advanced-report-and-data-extraction)
 * [SendGrid System Implementation](https://github.com/bryce-bowles/SCC-Work-Experience#sendgrid-system-implementation)
 * [Balance Billing Arbitration](https://github.com/bryce-bowles/SCC-Work-Experience#balance-billing-arbitration)
-* Annual Company Licensing Renewal
+* [Annual Company Licensing Renewal](https://github.com/bryce-bowles/SCC-Work-Experience#annual-company-licensing-renewal)
 * Working Group Meetings
 
 Work involves using a variety of data analysis and organizational tools, supporting several complex automated systems, and providing advanced technical assistance.  Work is performed with latitude for the exercise of independent judgment and decision making. Work is reviewed through conferences and evaluation of results.
