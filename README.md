@@ -27,7 +27,7 @@ Recent projects and Commission involvement include but are not limited to:
 * [Annual Company Licensing Renewal](https://github.com/bryce-bowles/SCC-Work-Experience#annual-company-licensing-renewal)
 * [Working Group Meetings](https://github.com/bryce-bowles/SCC-Work-Experience#working-group-meetings)
 
-Work involves using a variety of data analysis and organizational tools, supporting several complex automated systems, and providing advanced technical assistance.  Work is performed with latitude for the exercise of independent judgment and decision making. Work is reviewed through conferences and evaluation of results.
+Work involves using a variety of data querying, preprocessing, analysis, prediction and prescription; supporting several complex automated systems while providing advanced technical assistance.  Work is performed with latitude for the exercise of independent judgment and decision making. Work is reviewed through conferences and evaluation of results.
 
 
 ---
