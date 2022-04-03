@@ -44,6 +44,11 @@ When the Bureau was selecting a fingerprint vendor, I conducted research on the 
 	
 I then coordinated with Vertafore (vendor for Sircon system), the agent licensing section, the SCC’s Office of the Commission Comptroller and Data Integrators (our print/postal vendor) to setup email and mailing communication for multiple notice types. I reviewed and edited information within the SCC’s Invitation for Bid (IFB) to select a print vendor, directed implementation with the selected print vendor and am improving the process while creating internal procedures. Once the process was solidified, I trained Automated Systems’ staff on how to complete each month (until January 2024). Each month, careful facilitation is needed to generate, receive the files, confirm they are correct, provide to print vendor, validate letter proofs and follow up to confirm they have been sent. Mailings began, ongoing issues are assessed as needed (such as template configuration, SFTP move-it script changes, box.com setup for file transfer) and improvements of the process are underway.
 
+Supporting References:
+
+[SB 1222 Insurance licensing, biennial; renewal for individuals and business entities, etc.](https://lis.virginia.gov/cgi-bin/legp604.exe?191+sum+SB1222S&191+sum+SB1222S)
+
+[Legislation Proposal Presentation - background informaiton](https://github.com/bryce-bowles/SCC-Work-Experience/raw/main/BOI%20Presentation%202019%20Proposed%20Legislative%20Inititives.pdf)
 
 ## Advanced Report and Data Extraction 
 
