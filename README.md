@@ -50,6 +50,8 @@ Supporting References:
 
 [Legislation Proposal Presentation - background informaiton](https://github.com/bryce-bowles/SCC-Work-Experience/raw/main/BOI%20Presentation%202019%20Proposed%20Legislative%20Inititives.pdf)
 
+Based on our estimates, it is anticipated that the Commission will experience a loss in 2021 (of approximately $1.1 million, which includes losses incurred in 2019, 2020, and 2021 combined), and an excess of revenue in 2022 (of approximately $1.4 million). 
+
 ## Advanced Report and Data Extraction 
 
 My role in running advanced reports and data extraction concepts amplified due to the increased need of emailing and other needed statistics. I completed analytics and advanced reports / data extraction via SQL, MS Access/Excel and SAP Crystal to gather and organize large and complex data sets. To collect contact mailing requirements data, I’ve created a Excel form for the Bureau to use that specifies the fields and metadata available to select for mailing data pulls.  
