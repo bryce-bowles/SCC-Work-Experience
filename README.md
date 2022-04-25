@@ -1,5 +1,5 @@
 # SCC Work Experience
-Detailed descriptions of my work projects are on my (Portfolio Website)[https://bryce-bowles.github.io/work-experience.html].
+Detailed descriptions of my work projects are on my [Portfolio Website](https://bryce-bowles.github.io/work-experience.html).
 
 ### Senior Automated Systems Analyst: February 2022-Present 
 Serve as data analyst specialist responsible for automation and information systems work for the Bureau of Insurance (BOI) in support of insurance regulation
