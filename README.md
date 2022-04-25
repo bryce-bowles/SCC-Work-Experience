@@ -2,17 +2,19 @@
 Detailed descriptions of my work projects are on my [Portfolio Website](https://bryce-bowles.github.io/work-experience.html).
 
 ### Senior Automated Systems Analyst: February 2022-Present 
-Serve as data analyst specialist responsible for automation and information systems work for the Bureau of Insurance (BOI) in support of insurance regulation
-* Specialist for advanced data extraction and analysis via SQL, MS Access, Excel, Power BI and SAP Crystal to gather and organize large and complex data sets
-* Lead multiple projects involving analytics, new vendor system implementation, several complex information systems, and provide advanced technical assistance
+Build, implement, maintain and support analytics models and information systems that automate work tasks for the Virginia Bureau of Insurance (BOI) in support of insurance regulation.
+*	Lead multiple projects involving important information systems and analytical projects: Understand business needs, create requirements, identify appropriate data and analyses, create dashboards, present results to key stakeholders and leadership, maintain and provide advanced technical assistance.
+*	Collect data (structured and unstructured), preprocess, visualize and conduct descriptive, predictive and prescriptive analyses using a variety of tools to solve problems and enhance processes and decisions.
+*	Implemented emailing API system to save the Bureau over $300K and hundreds of work hours per year 
+
 
 ### Insurance Market Examiner (SCC): June 2018-February 2022  
 Serve as a Business Systems Analyst Liaison between the Bureau of Insurance (BOI) and Information Technology Division, assisting Automated Systems’ Chief
-* Project Analyst Lead for the largest agent licensing project (fingerprinting implementation) the BOI has undertaken in over 30 years. Implemented all physical, technical, and administrative security safeguards to meet the requirements of the Virginia State Police, FBI and the system developer/vendor. Presented 
-MS Power BI dashboard, Excel and PowerPoint to Agent Licensing section to show analytics on demographic report of fingerprint vendor research. 
-* Administer new System implementation: Facilitate software developers and line of business throughout each project application development cycle such as collect requirements, vendor research/system design, configuration, implementation, quality assurance testing, security roles etc.
+* Administer new system implementation: Facilitate software developers and line of business throughout each project application development cycle such as collect requirements, vendor research/system design, configuration, implementation, quality assurance testing, managing security role access etc.
+*	Lead analyst for a section’s largest project in over 30 years (SB 1222) improving security of over 360K insurance agents’ exam and fingerprint process with the goal of protecting the consumer. Built and presented dashboard analysis to stakeholders. Analysis was used to select the vendor and I conducted full implementation. 
+
 
 ### Associate Insurance Market Examiner (SCC): June 2017-June 2018 
 Support all computer-based systems and system related projects / processes utilized within the Bureau of Insurance
-* Administer, troubleshoot and improve numerous annual & quarterly system related projects and processes with BOI Staff. Create and implement timelines, train employees, streamline workflows, policies, and procedures. 
+* Work and collaborate as part of a multidisciplinary analyst team to administer, troubleshoot and improve numerous annual & quarterly system related projects and processes. 
 * Provide helpdesk support for BOI Staff (200+ employees): Maintain expert knowledge of all computer applications / equipment, security access, SharePoint updates, website changes, etc. 
