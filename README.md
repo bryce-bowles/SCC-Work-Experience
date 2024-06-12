@@ -1,7 +1,7 @@
 # SCC Work Experience
 Detailed descriptions of my work projects are on my [Portfolio Website](https://bryce-bowles.github.io/work-experience.html).
 
-### Senior Automated Systems Analyst: February 2022-Present 
+### Senior Automated Systems Analyst: February 2022 - July 2022
 *Build, implement, maintain and support analytics models and information systems that automate work tasks for the Virginia Bureau of Insurance (BOI) in support of insurance regulation.*
 *	Lead multiple projects involving important information systems and analytical projects: Understand business needs, create requirements, identify appropriate data and analyses, create dashboards, present results to key stakeholders and leadership, maintain and provide advanced technical assistance.
 *	Collect data (structured and unstructured) via SQL and MS Access, preprocess, visualize (MS Power BI, Excel) and conduct descriptive and inference analyses using a variety of tools to solve problems and enhance processes and decisions.
